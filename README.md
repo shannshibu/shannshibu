@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 3rd-year B.Tech student in Robotics and Automation Engineering<br>📍 Studying at Saintgits College of Engineering <br>🤖 Passionate about robotics, automation, and intelligent systems<br>💻 Developing skills in C/C++, Python, Arduino, and 8051 programming<br>🛠️ Interested in embedded systems, mechatronics, and machine learning<br>📈 Preparing for CAT 2026 with the goal of pursuing an MBA post-B.Tech<br>💬 Improving communication and leadership skills for a future in tech management<br>🎯 Long-term goal: To combine technical expertise with strategic leadership in the field of automation and innovation
+🎓 4th-year B.Tech student in Robotics and Automation Engineering<br>📍 Studying at Saintgits College of Engineering <br>🤖 Passionate about robotics, automation, and intelligent systems<br>💻 Developing skills in C/C++, Python, Arduino, and 8051 programming<br>🛠️ Interested in embedded systems, mechatronics, and machine learning<br>📈 Preparing for CAT 2026 with the goal of pursuing an MBA post-B.Tech<br>💬 Improving communication and leadership skills for a future in tech management<br>🎯 Long-term goal: To combine technical expertise with strategic leadership in the field of automation and innovation
 
 
 ## 🌐 Socials:
